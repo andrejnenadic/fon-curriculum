@@ -1,5 +1,5 @@
 export function formatGroupNames(groupNames: string[]): string {
-  const groups = groupNames.map((name) => name.replace("A", ""));
+  const groups = groupNames.map((name) => name.replace("B", ""));
   if (groups.length === 1) return `Grupa ${groups[0]}`;
   return `Grupe ${formatNumberArray(groups.map(Number))}`;
 

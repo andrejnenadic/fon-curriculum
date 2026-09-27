@@ -1,1586 +1,962 @@
 {
   "Ponedeljak": [
     {
-      "subject": "Inženjering procesa",
-      "type": "P",
-      "groups": ["A5", "A6", "A7"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A15", "A16"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Sociologija",
-      "type": "V",
-      "groups": ["A11", "A12", "A13"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "P",
-      "groups": ["A15", "A16", "A17", "A18"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "P",
-      "groups": ["A1", "A2", "A3", "A4"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A5"],
-      "time": "10:15-12:00",
-      "location": "13"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A6"],
-      "time": "10:15-12:00",
-      "location": "14"
-    },
-    {
-      "subject": "Sociologija",
+      "subject": "Diskretne matematičke strukture",
       "type": "V",
       "groups": [
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5",
-        "A6",
-        "A7",
-        "A8",
-        "A9",
-        "A10",
-        "A14"
+        "B3"
       ],
-      "time": "10:15-12:00",
-      "location": "Čitaonica"
-    },
-    {
-      "subject": "Sociologija",
-      "type": "V",
-      "groups": ["A15"],
-      "time": "12:15-14:00",
-      "location": "21"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A2"],
-      "time": "12:15-14:00",
-      "location": "13"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A16"],
-      "time": "12:15-14:00",
-      "location": "17"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A13", "A14"],
-      "time": "12:15-14:00",
-      "location": "Čitaonica"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A1"],
-      "time": "12:15-14:00",
-      "location": "15"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A18"],
-      "time": "12:15-14:00",
-      "location": "18"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "P",
-      "groups": ["A5", "A6", "A7"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A3", "A4", "A10"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A6"],
-      "time": "14:15-16:00",
-      "location": "15"
-    },
-    {
-      "subject": "Sociologija",
-      "type": "V",
-      "groups": ["A16"],
-      "time": "14:15-16:00",
-      "location": "17"
-    },
-    {
-      "subject": "Sociologija",
-      "type": "P",
-      "groups": ["A11", "A12", "A13", "A14"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A7"],
-      "time": "14:15-16:00",
-      "location": "13"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "P",
-      "groups": ["A8", "A9", "A10"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A5"],
-      "time": "14:15-16:00",
-      "location": "16"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A8"],
-      "time": "16:15-18:00",
-      "location": "15"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A7"],
-      "time": "16:15-18:00",
-      "location": "13"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A9"],
-      "time": "16:15-18:00",
-      "location": "16"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "P",
-      "groups": ["A11", "A12", "A13", "A14"],
-      "time": "18:15-20:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A1", "A2"],
-      "time": "18:15-20:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B8"],
-      "time": "08:15-10:00",
-      "location": "40 / 50"
-    },
-    {
-      "subject": "Statistika",
-      "type": "V",
-      "groups": ["B4", "B5"],
-      "time": "08:15-10:00",
-      "location": "20 / 21"
-    },
-    {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "P",
-      "groups": ["B4", "B5", "B6", "B9"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "P",
-      "groups": ["B1", "B2", "B3", "B8"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "P",
-      "groups": ["B4", "B5", "B6", "B9"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "P",
-      "groups": ["B1", "B2", "B3", "B8"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "P",
-      "groups": ["B4", "B5", "B6", "B9"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Statistika",
-      "type": "P",
-      "groups": ["B1", "B2", "B3", "B8"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "P",
-      "groups": ["B1", "B2", "B3", "B8"],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Statistika",
-      "type": "P",
-      "groups": ["B4", "B5", "B6", "B9"],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 5"
-    }
-  ],
-  "Utorak": [
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A14"],
-      "time": "08:15-10:00",
-      "location": "17"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A1"],
-      "time": "08:15-10:00",
-      "location": "20"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A2"],
-      "time": "08:15-10:00",
-      "location": "21"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A13"],
       "time": "08:15-10:00",
       "location": "16"
     },
     {
-      "subject": "Matematika 2",
+      "subject": "Programiranje 1",
       "type": "V",
-      "groups": ["A11"],
-      "time": "10:15-12:00",
-      "location": "13"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A6"],
-      "time": "10:15-12:00",
-      "location": "21"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A5"],
-      "time": "10:15-12:00",
-      "location": "20"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A12"],
-      "time": "10:15-12:00",
-      "location": "14"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A14"],
-      "time": "10:15-12:00",
-      "location": "17"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "P",
-      "groups": ["A1", "A2", "A3", "A4"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A13"],
-      "time": "10:15-12:00",
-      "location": "16"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A7"],
-      "time": "10:15-12:00",
-      "location": "30"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "P",
-      "groups": ["A11", "A12", "A13", "A14"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A3"],
-      "time": "12:15-14:00",
-      "location": "14"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "P",
-      "groups": ["A5", "A6", "A7"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A9"],
-      "time": "12:15-14:00",
-      "location": "30"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A8"],
-      "time": "12:15-14:00",
-      "location": "21"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A4"],
-      "time": "12:15-14:00",
-      "location": "15"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "P",
-      "groups": ["A5", "A6", "A7"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "P",
-      "groups": ["A11", "A12", "A13", "A14"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A10"],
-      "time": "16:15-18:00",
-      "location": "15"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A12"],
-      "time": "16:15-18:00",
-      "location": "17"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A11"],
-      "time": "16:15-18:00",
-      "location": "16"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "P",
-      "groups": ["A1", "A2", "A3", "A4"],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A3"],
-      "time": "18:15-20:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A1", "A2"],
-      "time": "18:15-20:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A4"],
-      "time": "18:15-20:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "P",
-      "groups": ["A8", "A9", "A10"],
-      "time": "18:15-20:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "P",
-      "groups": ["B15", "B16", "B17"],
+      "groups": [
+        "B7"
+      ],
       "time": "08:15-10:00",
-      "location": "Amfiteatar 3"
+      "location": "50"
     },
     {
-      "subject": "Ekonomika poslovanja i planiranje",
-      "type": "P",
-      "groups": ["B11", "B12", "B13", "B14"],
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B8"
+      ],
       "time": "08:15-10:00",
-      "location": "Amfiteatar 5"
+      "location": "60"
     },
     {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "V",
-      "groups": ["B4"],
-      "time": "08:15-10:00",
-      "location": "40 / 50"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B3"],
-      "time": "08:15-10:00",
-      "location": "60 / 61"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "V",
-      "groups": ["B2"],
-      "time": "08:15-10:00",
-      "location": "08 / 09"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B2"],
-      "time": "10:15-12:00",
-      "location": "60 / 61"
-    },
-    {
-      "subject": "Ekonomika poslovanja i planiranje",
-      "type": "P",
-      "groups": ["B15", "B16", "B17", "D1", "D2", "D3", "D4", "D5", "D6"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "V",
-      "groups": ["B3"],
-      "time": "10:15-12:00",
-      "location": "40 / 50"
-    },
-    {
-      "subject": "Menadžment tehnologije i razvoja",
-      "type": "P",
-      "groups": ["B11", "B12", "B13", "B14"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "V",
-      "groups": ["B2"],
-      "time": "12:15-14:00",
-      "location": "61 / 60"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "V",
-      "groups": ["B4"],
-      "time": "12:15-14:00",
-      "location": "09 / 08"
-    },
-    {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "V",
-      "groups": ["B3"],
-      "time": "12:15-14:00",
-      "location": "62"
-    },
-    {
-      "subject": "Standardizacija",
-      "type": "P",
-      "groups": ["B11", "B12", "B13", "B14"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Menadžment tehnologije i razvoja",
-      "type": "P",
-      "groups": ["B15", "B16", "B17"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Standardizacija",
-      "type": "P",
-      "groups": ["B15", "B16", "B17"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "V",
-      "groups": ["B5"],
-      "time": "14:15-16:00",
-      "location": "08 / 09"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B9"],
-      "time": "14:15-16:00",
-      "location": "62"
-    },
-    {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "V",
-      "groups": ["B6"],
-      "time": "14:15-16:00",
-      "location": "60 / 61"
-    },
-    {
-      "subject": "Statistika",
-      "type": "P",
-      "groups": ["B11", "B12", "B13", "B14"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "V",
-      "groups": ["B9"],
-      "time": "16:15-18:00",
-      "location": "60 / 61"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B5"],
-      "time": "16:15-18:00",
-      "location": "09 / 08"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "V",
-      "groups": ["B6"],
-      "time": "16:15-18:00",
-      "location": "62"
-    },
-    {
-      "subject": "Statistika",
-      "type": "P",
-      "groups": ["B15", "B16", "B17"],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "V",
-      "groups": ["B9"],
-      "time": "18:15-20:00",
-      "location": "61 / 60"
-    },
-    {
-      "subject": "Cloud infrastruktura i servisi",
-      "type": "V",
-      "groups": ["B5"],
-      "time": "18:15-20:00",
-      "location": "50 / 40"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B6"],
-      "time": "18:15-20:00",
-      "location": "62"
-    }
-  ],
-  "Sreda": [
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A3"],
-      "time": "08:15-10:00",
-      "location": "17"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A9"],
-      "time": "08:15-10:00",
-      "location": "60 / 62"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "P",
-      "groups": ["A15", "A16", "A17", "A18"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 2"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A4"],
-      "time": "08:15-10:00",
-      "location": "18"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "P",
-      "groups": ["A5", "A6", "A7"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Sociologija",
+      "subject": "Teorija verovatnoće",
       "type": "P",
       "groups": [
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5",
-        "A6",
-        "A7",
-        "A8",
-        "A9",
-        "A10",
-        "A15",
-        "A16",
-        "A17",
-        "A18"
+        "B12",
+        "B13",
+        "B14"
       ],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A8"],
-      "time": "10:15-12:00",
-      "location": "60 / 62"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A5"],
-      "time": "10:15-12:00",
-      "location": "13"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A6"],
-      "time": "10:15-12:00",
-      "location": "14"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A7"],
-      "time": "10:15-12:00",
-      "location": "15"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A7"],
-      "time": "12:15-14:00",
-      "location": "50 / 40"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "P",
-      "groups": ["A8", "A9", "A10"],
-      "time": "12:15-14:00",
+      "time": "08:15-10:00",
       "location": "Amfiteatar 2"
     },
     {
-      "subject": "Sociologija",
+      "subject": "Programiranje 1",
       "type": "V",
-      "groups": ["A17", "A18"],
-      "time": "12:15-14:00",
-      "location": "Čitaonica"
+      "groups": [
+        "B8"
+      ],
+      "time": "08:15-10:00",
+      "location": "61"
     },
     {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A15"],
-      "time": "12:15-14:00",
-      "location": "15"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A8"],
-      "time": "14:15-16:00",
-      "location": "13"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A6"],
-      "time": "14:15-16:00",
-      "location": "60 / 61"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A5"],
-      "time": "14:15-16:00",
-      "location": "11 / 62"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A9"],
-      "time": "14:15-16:00",
-      "location": "15"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["A10"],
-      "time": "14:15-16:00",
-      "location": "14"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A17"],
-      "time": "14:15-16:00",
-      "location": "20"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A18"],
-      "time": "14:15-16:00",
-      "location": "30"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A10"],
-      "time": "16:15-18:00",
-      "location": "60 / 61"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A17"],
-      "time": "16:15-18:00",
-      "location": "15"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
+      "subject": "Računovodstvo",
       "type": "P",
       "groups": [
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5",
-        "A6",
-        "A7",
-        "A8",
-        "A9",
-        "A10",
-        "B15",
-        "B16",
-        "B17"
+        "B9",
+        "B10",
+        "B11"
       ],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Statistika",
-      "type": "V",
-      "groups": ["B1", "B2", "B3"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Finansijski menadžment i računovodstvo",
-      "type": "V",
-      "groups": ["B6"],
-      "time": "08:15-10:00",
-      "location": "14"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "P",
-      "groups": ["B11", "B12", "B13", "B14"],
       "time": "08:15-10:00",
       "location": "Amfiteatar 1"
     },
     {
-      "subject": "Statistika",
+      "subject": "Programiranje 1",
       "type": "V",
-      "groups": ["B8"],
+      "groups": [
+        "B7"
+      ],
       "time": "08:15-10:00",
-      "location": "16"
+      "location": "40"
     },
     {
-      "subject": "Finansijski menadžment i računovodstvo",
-      "type": "V",
-      "groups": ["B9"],
-      "time": "08:15-10:00",
-      "location": "15"
-    },
-    {
-      "subject": "Menadžment tehnologije i razvoja",
-      "type": "V",
-      "groups": ["B11"],
-      "time": "10:15-12:00",
-      "location": "12"
-    },
-    {
-      "subject": "Osnove finansijskog menadžmenta",
-      "type": "V",
-      "groups": ["B1", "B2", "B3", "B4", "B5", "B6", "B8", "B9"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Finansijski menadžment i računovodstvo",
-      "type": "P",
-      "groups": ["B4", "B5", "B6", "B9"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Menadžment tehnologije i razvoja",
-      "type": "V",
-      "groups": ["B13", "B14"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["B11"],
-      "time": "12:15-14:00",
-      "location": "17"
-    },
-    {
-      "subject": "Finansijski menadžment i računovodstvo",
-      "type": "V",
-      "groups": ["B2", "B3", "B8"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Finansijski menadžment i računovodstvo",
-      "type": "V",
-      "groups": ["B1", "B4", "B5"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Statistika",
-      "type": "V",
-      "groups": ["B15"],
-      "time": "14:15-16:00",
-      "location": "18"
-    },
-    {
-      "subject": "Osnove finansijskog menadžmenta",
-      "type": "P",
-      "groups": ["B1", "B2", "B3", "B4", "B5", "B6", "B8", "B9"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Finansijski menadžment i računovodstvo",
-      "type": "P",
-      "groups": ["B1", "B2", "B3", "B8"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Ekonomika poslovanja i planiranje",
-      "type": "V",
-      "groups": ["B13", "B14", "D2", "D4"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Menadžment tehnologije i razvoja",
-      "type": "V",
-      "groups": ["B12"],
-      "time": "14:15-16:00",
-      "location": "16"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
+      "subject": "Teorija verovatnoće",
       "type": "P",
       "groups": [
-        "A1",
-        "A2",
-        "A3",
-        "A4",
-        "A5",
-        "A6",
-        "A7",
-        "A8",
-        "A9",
-        "A10",
-        "B15",
-        "B16",
-        "B17"
+        "B9",
+        "B10",
+        "B11"
       ],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 4"
+      "time": "10:15-12:00",
+      "location": "Amfiteatar 2"
     },
     {
-      "subject": "Statistika",
+      "subject": "Diskretne matematičke strukture",
       "type": "V",
-      "groups": ["B6"],
-      "time": "16:15-18:00",
-      "location": "13"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["B12"],
-      "time": "16:15-18:00",
+      "groups": [
+        "B1"
+      ],
+      "time": "10:15-12:00",
       "location": "16"
     },
     {
-      "subject": "Uvod u poslovnu analitiku",
-      "type": "P",
-      "groups": ["B8"],
-      "time": "16:15-18:00",
-      "location": "08 / 09"
-    },
-    {
-      "subject": "Statistika",
+      "subject": "Programiranje 1",
       "type": "V",
-      "groups": ["B13"],
-      "time": "16:15-18:00",
-      "location": "17"
-    },
-    {
-      "subject": "Statistika",
-      "type": "V",
-      "groups": ["B14"],
-      "time": "16:15-18:00",
-      "location": "18"
-    },
-    {
-      "subject": "Statistika",
-      "type": "V",
-      "groups": ["B9"],
-      "time": "16:15-18:00",
-      "location": "14"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
-      "type": "V",
-      "groups": ["B15", "B16", "B17"],
-      "time": "18:15-20:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["B14"],
-      "time": "18:15-20:00",
-      "location": "18"
-    },
-    {
-      "subject": "Uvod u poslovnu analitiku",
-      "type": "V",
-      "groups": ["B8"],
-      "time": "18:15-20:00",
-      "location": "09 / 08"
-    },
-    {
-      "subject": "Inženjering procesa",
-      "type": "V",
-      "groups": ["B13"],
-      "time": "18:15-20:00",
-      "location": "17"
-    }
-  ],
-  "Četvrtak": [
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A15"],
-      "time": "08:15-10:00",
-      "location": "15"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A1"],
-      "time": "08:15-10:00",
-      "location": "50 / 40"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A16"],
-      "time": "08:15-10:00",
-      "location": "14"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A18"],
-      "time": "08:15-10:00",
-      "location": "17"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A2"],
-      "time": "08:15-10:00",
-      "location": "61 / 60"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "P",
-      "groups": ["A8", "A9", "A10"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 2"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A17"],
-      "time": "08:15-10:00",
-      "location": "16"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A4"],
-      "time": "08:15-10:00",
-      "location": "62"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A10"],
+      "groups": [
+        "B5"
+      ],
       "time": "10:15-12:00",
-      "location": "15"
+      "location": "50"
     },
     {
-      "subject": "Uvod u informacione sisteme",
+      "subject": "Arhitektura računara i operativni sistemi",
       "type": "V",
-      "groups": ["A9"],
+      "groups": [
+        "B8"
+      ],
       "time": "10:15-12:00",
-      "location": "14"
+      "location": "09"
     },
     {
-      "subject": "Uvod u informacione sisteme",
+      "subject": "Programiranje 1",
       "type": "V",
-      "groups": ["A8"],
-      "time": "10:15-12:00",
-      "location": "13"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "P",
-      "groups": ["A1", "A2", "A3", "A4"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "P",
-      "groups": ["A15", "A16", "A17", "A18"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 2"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "P",
-      "groups": ["A1", "A2", "A3", "A4"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "P",
-      "groups": ["A8", "A9", "A10"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A15"],
-      "time": "12:15-14:00",
-      "location": "16"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "P",
-      "groups": ["A11", "A12", "A13", "A14"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A17"],
-      "time": "12:15-14:00",
-      "location": "15"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "V",
-      "groups": ["A16"],
-      "time": "12:15-14:00",
-      "location": "17"
-    },
-    {
-      "subject": "Matematika 2",
-      "type": "V",
-      "groups": ["A18"],
-      "time": "12:15-14:00",
-      "location": "14"
-    },
-    {
-      "subject": "Francuski jezik u informatici",
-      "type": "P",
-      "groups": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10"],
-      "time": "14:15-16:00",
-      "location": "12"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A14"],
-      "time": "14:15-16:00",
-      "location": "21"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A12"],
-      "time": "14:15-16:00",
-      "location": "13"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
-      "type": "V",
-      "groups": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Menadžment tehnologije i razvoja",
-      "type": "P",
-      "groups": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 2"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A13"],
-      "time": "14:15-16:00",
-      "location": "18"
-    },
-    {
-      "subject": "Psihologija",
-      "type": "V",
-      "groups": ["A11"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 3"
-    },
-    {
-      "subject": "Uvod u informacione sisteme",
-      "type": "P",
-      "groups": ["A15", "A16", "A17", "A18"],
-      "time": "14:15-16:00",
-      "location": "Amfiteatar 1"
-    },
-    {
-      "subject": "Francuski jezik u informatici",
-      "type": "V",
-      "groups": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10"],
-      "time": "16:15-18:00",
-      "location": "12"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A12"],
-      "time": "16:15-18:00",
-      "location": "21"
-    },
-    {
-      "subject": "Engleski jezik u menadžmentu 1",
-      "type": "V",
-      "groups": ["A11"],
-      "time": "16:15-18:00",
-      "location": "18"
-    },
-    {
-      "subject": "Menadžment tehnologije i razvoja",
-      "type": "V",
-      "groups": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10"],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 2"
-    },
-    {
-      "subject": "Principi programiranja",
-      "type": "V",
-      "groups": ["A3"],
-      "time": "18:15-20:00",
-      "location": "62 / 50"
-    },
-    {
-      "subject": "Standardizacija",
-      "type": "V",
-      "groups": ["B15"],
-      "time": "08:15-10:00",
-      "location": "18"
-    },
-    {
-      "subject": "Ekonomika poslovanja i planiranje",
-      "type": "V",
-      "groups": ["B17", "D1", "D3", "D5", "D6"],
-      "time": "08:15-10:00",
-      "location": "21"
-    },
-    {
-      "subject": "Standardizacija",
-      "type": "V",
-      "groups": ["B17"],
+      "groups": [
+        "B3"
+      ],
       "time": "10:15-12:00",
       "location": "61"
     },
     {
-      "subject": "Standardizacija",
+      "subject": "Arhitektura računara i operativni sistemi",
       "type": "V",
-      "groups": ["B16"],
+      "groups": [
+        "B7"
+      ],
       "time": "10:15-12:00",
-      "location": "62"
+      "location": "20"
     },
     {
-      "subject": "Menadžment tehnologije i razvoja",
+      "subject": "Arhitektura računara i operativni sistemi",
       "type": "V",
-      "groups": ["B15"],
+      "groups": [
+        "B8"
+      ],
       "time": "10:15-12:00",
-      "location": "18"
+      "location": "08"
     },
     {
-      "subject": "Inženjering procesa",
+      "subject": "Programiranje 1",
       "type": "V",
-      "groups": ["B16"],
+      "groups": [
+        "B5"
+      ],
+      "time": "10:15-12:00",
+      "location": "40"
+    },
+    {
+      "subject": "Marketing",
+      "type": "P",
+      "groups": [
+        "B12",
+        "B13",
+        "B14"
+      ],
+      "time": "10:15-12:00",
+      "location": "Amfiteatar 1"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B3"
+      ],
+      "time": "10:15-12:00",
+      "location": "60"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B1"
+      ],
       "time": "12:15-14:00",
-      "location": "12"
+      "location": "60"
     },
     {
-      "subject": "Inženjering procesa",
+      "subject": "Diskretne matematičke strukture",
       "type": "V",
-      "groups": ["B15"],
+      "groups": [
+        "B7"
+      ],
       "time": "12:15-14:00",
-      "location": "18"
+      "location": "15"
     },
     {
-      "subject": "Menadžment tehnologije i razvoja",
+      "subject": "Računovodstvo",
+      "type": "P",
+      "groups": [
+        "B12",
+        "B13",
+        "B14"
+      ],
+      "time": "12:15-14:00",
+      "location": "Amfiteatar 2"
+    },
+    {
+      "subject": "Teorija verovatnoće",
       "type": "V",
-      "groups": ["B17"],
+      "groups": [
+        "B6"
+      ],
       "time": "12:15-14:00",
       "location": "30"
     },
     {
-      "subject": "Statistika",
+      "subject": "Teorija verovatnoće",
       "type": "V",
-      "groups": ["B11"],
+      "groups": [
+        "B5"
+      ],
+      "time": "12:15-14:00",
+      "location": "20"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B1"
+      ],
+      "time": "12:15-14:00",
+      "location": "61"
+    },
+    {
+      "subject": "Menadžment ljudskih resursa",
+      "type": "P",
+      "groups": [
+        "B9",
+        "B10",
+        "B11"
+      ],
+      "time": "12:15-14:00",
+      "location": "Amfiteatar 5"
+    },
+    {
+      "subject": "Marketing",
+      "type": "P",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11"
+      ],
+      "time": "14:15-16:00",
+      "location": "Amfiteatar 2"
+    },
+    {
+      "subject": "Menadžment ljudskih resursa",
+      "type": "P",
+      "groups": [
+        "B12",
+        "B13",
+        "B14"
+      ],
+      "time": "14:15-16:00",
+      "location": "Amfiteatar 5"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B2"
+      ],
+      "time": "16:15-18:00",
+      "location": "50"
+    },
+    {
+      "subject": "Diskretne matematičke strukture",
+      "type": "V",
+      "groups": [
+        "B4"
+      ],
+      "time": "16:15-18:00",
+      "location": "16"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B2"
+      ],
+      "time": "16:15-18:00",
+      "location": "40"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B6"
+      ],
+      "time": "16:15-18:00",
+      "location": "61"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B6"
+      ],
+      "time": "16:15-18:00",
+      "location": "60"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B1"
+      ],
+      "time": "16:15-18:00",
+      "location": "20"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B2"
+      ],
+      "time": "18:15-20:00",
+      "location": "50"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B4"
+      ],
+      "time": "18:15-20:00",
+      "location": "60"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B4"
+      ],
+      "time": "18:15-20:00",
+      "location": "61"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "V",
+      "groups": [
+        "B2"
+      ],
+      "time": "18:15-20:00",
+      "location": "40"
+    }
+  ],
+  "Utorak": [
+    {
+      "subject": "Računovodstvo",
+      "type": "V",
+      "groups": [
+        "B9"
+      ],
+      "time": "08:15-10:00",
+      "location": "13"
+    },
+    {
+      "subject": "Osnove kvaliteta",
+      "type": "P",
+      "groups": [
+        "B12",
+        "B13",
+        "B14"
+      ],
+      "time": "08:15-10:00",
+      "location": "Amfiteatar 4"
+    },
+    {
+      "subject": "Menadžment ljudskih resursa",
+      "type": "V",
+      "groups": [
+        "B13"
+      ],
+      "time": "10:15-12:00",
+      "location": "15"
+    },
+    {
+      "subject": "Osnove kvaliteta",
+      "type": "V",
+      "groups": [
+        "B14"
+      ],
+      "time": "10:15-12:00",
+      "location": "16"
+    },
+    {
+      "subject": "Menadžment ljudskih resursa",
+      "type": "V",
+      "groups": [
+        "B12"
+      ],
+      "time": "10:15-12:00",
+      "location": "14"
+    },
+    {
+      "subject": "Osnove kvaliteta",
+      "type": "P",
+      "groups": [
+        "B9",
+        "B10",
+        "B11"
+      ],
+      "time": "10:15-12:00",
+      "location": "Amfiteatar 4"
+    },
+    {
+      "subject": "Osnove kvaliteta",
+      "type": "V",
+      "groups": [
+        "B13"
+      ],
+      "time": "12:15-14:00",
+      "location": "16"
+    },
+    {
+      "subject": "Menadžment ljudskih resursa",
+      "type": "V",
+      "groups": [
+        "B14"
+      ],
+      "time": "12:15-14:00",
+      "location": "15"
+    },
+    {
+      "subject": "Menadžment ljudskih resursa",
+      "type": "V",
+      "groups": [
+        "B9"
+      ],
+      "time": "12:15-14:00",
+      "location": "14"
+    },
+    {
+      "subject": "Računovodstvo",
+      "type": "V",
+      "groups": [
+        "B10"
+      ],
+      "time": "12:15-14:00",
+      "location": "17"
+    },
+    {
+      "subject": "Računovodstvo",
+      "type": "V",
+      "groups": [
+        "B11"
+      ],
+      "time": "12:15-14:00",
+      "location": "18"
+    },
+    {
+      "subject": "Marketing",
+      "type": "V",
+      "groups": [
+        "B12"
+      ],
+      "time": "12:15-14:00",
+      "location": "13"
+    },
+    {
+      "subject": "Menadžment ljudskih resursa",
+      "type": "V",
+      "groups": [
+        "B10"
+      ],
       "time": "14:15-16:00",
       "location": "15"
     },
     {
-      "subject": "Inženjering procesa",
+      "subject": "Računovodstvo",
       "type": "V",
-      "groups": ["B17"],
+      "groups": [
+        "B12"
+      ],
       "time": "14:15-16:00",
-      "location": "30"
+      "location": "16"
     },
     {
-      "subject": "Menadžment tehnologije i razvoja",
+      "subject": "Marketing",
       "type": "V",
-      "groups": ["B16"],
+      "groups": [
+        "B14"
+      ],
       "time": "14:15-16:00",
       "location": "17"
     },
     {
-      "subject": "Statistika",
+      "subject": "Menadžment ljudskih resursa",
       "type": "V",
-      "groups": ["B12"],
+      "groups": [
+        "B11"
+      ],
       "time": "14:15-16:00",
       "location": "14"
     },
     {
-      "subject": "Ekonomika poslovanja i planiranje",
-      "type": "V",
-      "groups": ["B11", "B12", "B15", "B16"],
+      "subject": "Diskretne matematičke strukture",
+      "type": "P",
+      "groups": [
+        "B7",
+        "B8"
+      ],
+      "time": "14:15-16:00",
+      "location": "Amfiteatar 4"
+    },
+    {
+      "subject": "Teorija verovatnoće",
+      "type": "P",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ],
+      "time": "14:15-16:00",
+      "location": "Amfiteatar 5"
+    },
+    {
+      "subject": "Teorija verovatnoće",
+      "type": "P",
+      "groups": [
+        "B5",
+        "B6",
+        "B7",
+        "B8"
+      ],
       "time": "16:15-18:00",
+      "location": "Amfiteatar 5"
+    },
+    {
+      "subject": "Matematika 3",
+      "type": "P",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8"
+      ],
+      "time": "16:15-18:00",
+      "location": "12"
+    },
+    {
+      "subject": "Diskretne matematičke strukture",
+      "type": "P",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ],
+      "time": "16:15-18:00",
+      "location": "Amfiteatar 4"
+    },
+    {
+      "subject": "Matematika 3",
+      "type": "V",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "B8"
+      ],
+      "time": "18:15-20:00",
+      "location": "13"
+    }
+  ],
+  "Sreda": [
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "P",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ],
+      "time": "08:15-10:00",
+      "location": "Amfiteatar 2"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "P",
+      "groups": [
+        "B5",
+        "B6",
+        "B7",
+        "B8"
+      ],
+      "time": "10:15-12:00",
+      "location": "Amfiteatar 2"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B3"
+      ],
+      "time": "12:15-14:00",
+      "location": "30"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B4"
+      ],
+      "time": "12:15-14:00",
+      "location": "07"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "P",
+      "groups": [
+        "B5",
+        "B6",
+        "B7",
+        "B8"
+      ],
+      "time": "12:15-14:00",
+      "location": "Čitaonica"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B4"
+      ],
+      "time": "12:15-14:00",
+      "location": "06"
+    },
+    {
+      "subject": "Programiranje 1",
+      "type": "P",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ],
+      "time": "14:15-16:00",
+      "location": "Amfiteatar 1"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B6"
+      ],
+      "time": "16:15-18:00",
+      "location": "07"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B5"
+      ],
+      "time": "16:15-18:00",
+      "location": "30"
+    },
+    {
+      "subject": "Upravljanje projektima",
+      "type": "P",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ],
+      "time": "16:15-18:00",
+      "location": "Amfiteatar 4"
+    },
+    {
+      "subject": "Arhitektura računara i operativni sistemi",
+      "type": "V",
+      "groups": [
+        "B6"
+      ],
+      "time": "16:15-18:00",
+      "location": "06"
+    },
+    {
+      "subject": "Upravljanje projektima",
+      "type": "P",
+      "groups": [
+        "B5",
+        "B6",
+        "B7",
+        "B8"
+      ],
+      "time": "18:15-20:00",
       "location": "Amfiteatar 4"
     }
   ],
   "Petak": [
     {
-      "subject": "Uvod u poslovnu analitiku",
+      "subject": "Upravljanje projektima",
       "type": "V",
-      "groups": ["B8"],
+      "groups": [
+        "B3"
+      ],
       "time": "08:15-10:00",
-      "location": "62"
-    },
-    {
-      "subject": "Klijentske veb tehnologije i skriptni jezici",
-      "type": "V",
-      "groups": ["B6"],
-      "time": "08:15-10:00",
-      "location": "61 / 60"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
-      "type": "P",
-      "groups": ["B11", "B12", "B13", "B14"],
-      "time": "08:15-10:00",
-      "location": "Amfiteatar 2"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B4"],
-      "time": "08:15-10:00",
-      "location": "08 / 09"
-    },
-    {
-      "subject": "Baze podataka",
-      "type": "V",
-      "groups": ["B1"],
-      "time": "08:15-10:00",
-      "location": "50"
-    },
-    {
-      "subject": "Uvod u poslovnu analitiku",
-      "type": "P",
-      "groups": ["B8"],
-      "time": "10:15-12:00",
-      "location": "62"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
-      "type": "V",
-      "groups": ["B14"],
-      "time": "10:15-12:00",
-      "location": "14"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
-      "type": "V",
-      "groups": ["B13"],
-      "time": "10:15-12:00",
-      "location": "13"
-    },
-    {
-      "subject": "Strukture podataka i algoritmi",
-      "type": "V",
-      "groups": ["B1"],
-      "time": "10:15-12:00",
-      "location": "50"
-    },
-    {
-      "subject": "Interakcija čovek-računar",
-      "type": "P",
-      "groups": ["B2", "B3"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 4"
-    },
-    {
-      "subject": "Programiranje 2",
-      "type": "V",
-      "groups": ["B5"],
-      "time": "10:15-12:00",
-      "location": "19 / 07"
-    },
-    {
-      "subject": "Standardizacija",
-      "type": "V",
-      "groups": ["B11", "B12"],
-      "time": "10:15-12:00",
-      "location": "Amfiteatar 2"
-    },
-    {
-      "subject": "Klijentske veb tehnologije i skriptni jezici",
-      "type": "P",
-      "groups": ["B6"],
-      "time": "10:15-12:00",
       "location": "17"
     },
     {
-      "subject": "Baze podataka",
+      "subject": "Upravljanje projektima",
       "type": "V",
-      "groups": ["B8"],
-      "time": "12:15-14:00",
-      "location": "11 / 62"
+      "groups": [
+        "B1"
+      ],
+      "time": "08:15-10:00",
+      "location": "20"
     },
     {
-      "subject": "Interakcija čovek-računar",
+      "subject": "Teorija verovatnoće",
       "type": "V",
-      "groups": ["B2", "B3"],
-      "time": "12:15-14:00",
-      "location": "Amfiteatar 4"
+      "groups": [
+        "B7",
+        "B8",
+        "B13"
+      ],
+      "time": "08:15-10:00",
+      "location": "Amfiteatar 2"
     },
     {
-      "subject": "Cloud infrastruktura i servisi",
+      "subject": "Diskretne matematičke strukture",
       "type": "V",
-      "groups": ["B1"],
-      "time": "12:15-14:00",
-      "location": "50"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
-      "type": "V",
-      "groups": ["B12"],
-      "time": "12:15-14:00",
-      "location": "13"
-    },
-    {
-      "subject": "Programiranje 2",
-      "type": "V",
-      "groups": ["B4"],
-      "time": "12:15-14:00",
-      "location": "40 / 19"
-    },
-    {
-      "subject": "Osnove operacionog menadžmenta",
-      "type": "V",
-      "groups": ["B11"],
-      "time": "12:15-14:00",
+      "groups": [
+        "B6"
+      ],
+      "time": "08:15-10:00",
       "location": "14"
     },
     {
-      "subject": "Standardizacija",
+      "subject": "Diskretne matematičke strukture",
       "type": "V",
-      "groups": ["B13"],
-      "time": "12:15-14:00",
-      "location": "60"
+      "groups": [
+        "B5"
+      ],
+      "time": "08:15-10:00",
+      "location": "15"
     },
     {
-      "subject": "Standardizacija",
+      "subject": "Marketing",
       "type": "V",
-      "groups": ["B14"],
-      "time": "12:15-14:00",
-      "location": "61"
-    },
-    {
-      "subject": "Programiranje 2",
-      "type": "P",
-      "groups": ["B4", "B5"],
-      "time": "14:15-16:00",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B9",
+        "B10"
+      ],
+      "time": "08:15-10:00",
       "location": "Amfiteatar 4"
     },
     {
-      "subject": "Programski jezici za analitiku",
+      "subject": "Upravljanje projektima",
       "type": "V",
-      "groups": ["B9"],
-      "time": "14:15-16:00",
-      "location": "08 / 09"
+      "groups": [
+        "B8"
+      ],
+      "time": "10:15-12:00",
+      "location": "18"
     },
     {
-      "subject": "Statistika",
+      "subject": "Diskretne matematičke strukture",
+      "type": "P",
+      "groups": [
+        "B5",
+        "B6"
+      ],
+      "time": "10:15-12:00",
+      "location": "Amfiteatar 5"
+    },
+    {
+      "subject": "Upravljanje projektima",
       "type": "V",
-      "groups": ["B16", "B17"],
+      "groups": [
+        "B2"
+      ],
+      "time": "10:15-12:00",
+      "location": "30"
+    },
+    {
+      "subject": "Marketing",
+      "type": "V",
+      "groups": [
+        "B13"
+      ],
+      "time": "10:15-12:00",
+      "location": "Amfiteatar 1"
+    },
+    {
+      "subject": "Teorija verovatnoće",
+      "type": "V",
+      "groups": [
+        "B9",
+        "B10",
+        "B12"
+      ],
+      "time": "10:15-12:00",
+      "location": "Amfiteatar 2"
+    },
+    {
+      "subject": "Osnove kvaliteta",
+      "type": "V",
+      "groups": [
+        "B11"
+      ],
+      "time": "10:15-12:00",
+      "location": "20"
+    },
+    {
+      "subject": "Osnove kvaliteta",
+      "type": "V",
+      "groups": [
+        "B9",
+        "B10"
+      ],
+      "time": "12:15-14:00",
+      "location": "Amfiteatar 4"
+    },
+    {
+      "subject": "Marketing",
+      "type": "V",
+      "groups": [
+        "B5",
+        "B6",
+        "B11"
+      ],
+      "time": "12:15-14:00",
+      "location": "Amfiteatar 5"
+    },
+    {
+      "subject": "Osnove kvaliteta",
+      "type": "V",
+      "groups": [
+        "B12"
+      ],
+      "time": "12:15-14:00",
+      "location": "17"
+    },
+    {
+      "subject": "Upravljanje projektima",
+      "type": "V",
+      "groups": [
+        "B6"
+      ],
+      "time": "12:15-14:00",
+      "location": "18"
+    },
+    {
+      "subject": "Računovodstvo",
+      "type": "V",
+      "groups": [
+        "B13"
+      ],
+      "time": "12:15-14:00",
+      "location": "20"
+    },
+    {
+      "subject": "Upravljanje projektima",
+      "type": "V",
+      "groups": [
+        "B7"
+      ],
+      "time": "12:15-14:00",
+      "location": "Čitaonica"
+    },
+    {
+      "subject": "Teorija verovatnoće",
+      "type": "V",
+      "groups": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ],
+      "time": "12:15-14:00",
+      "location": "Amfiteatar 2"
+    },
+    {
+      "subject": "Upravljanje projektima",
+      "type": "V",
+      "groups": [
+        "B4"
+      ],
+      "time": "14:15-16:00",
+      "location": "17"
+    },
+    {
+      "subject": "Diskretne matematičke strukture",
+      "type": "V",
+      "groups": [
+        "B2"
+      ],
+      "time": "14:15-16:00",
+      "location": "16"
+    },
+    {
+      "subject": "Teorija verovatnoće",
+      "type": "V",
+      "groups": [
+        "B11",
+        "B14"
+      ],
       "time": "14:15-16:00",
       "location": "Amfiteatar 2"
     },
     {
-      "subject": "Cloud infrastruktura i servisi",
+      "subject": "Upravljanje projektima",
       "type": "V",
-      "groups": ["B8"],
+      "groups": [
+        "B5"
+      ],
       "time": "14:15-16:00",
-      "location": "50 / 62"
+      "location": "20"
     },
     {
-      "subject": "Jezici i okruženja za razvoj IS",
-      "type": "P",
-      "groups": ["B1"],
-      "time": "16:15-18:00",
-      "location": "62"
-    },
-    {
-      "subject": "Programski jezici za analitiku",
-      "type": "P",
-      "groups": ["B9"],
-      "time": "16:15-18:00",
-      "location": "Amfiteatar 5"
-    },
-    {
-      "subject": "Jezici i okruženja za razvoj IS",
+      "subject": "Marketing",
       "type": "V",
-      "groups": ["B1"],
-      "time": "18:15-20:00",
-      "location": "62"
+      "groups": [
+        "B7",
+        "B8"
+      ],
+      "time": "14:15-16:00",
+      "location": "Amfiteatar 1"
+    },
+    {
+      "subject": "Diskretne matematičke strukture",
+      "type": "V",
+      "groups": [
+        "B8"
+      ],
+      "time": "16:15-18:00",
+      "location": "16"
+    },
+    {
+      "subject": "Računovodstvo",
+      "type": "V",
+      "groups": [
+        "B14"
+      ],
+      "time": "16:15-18:00",
+      "location": "13"
     }
   ]
 }
